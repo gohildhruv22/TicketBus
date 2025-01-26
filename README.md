@@ -79,7 +79,7 @@ Transform your daily commute with our user-friendly digital Public Transportatio
 
 ## Acknowledgments
 
-A major thanks to Neel Dedkawala, Himanshi Borad, Dhruv Gohil, Aryan Randeriya, Preet Gabani for assisting in this project.
+A major thanks to Neel Dedkawala, Himanshi Borad, Prince Ganeshwala, Aryan Randeriya, Preet Gabani for assisting in this project.
 
 ---
 
